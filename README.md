@@ -1,9 +1,9 @@
 
 
-**Basic Idea:**
+**Basic Idea:**\n
 Extracing text from images and converting it to speech for the visually impaired.
 
-**Tools Used:**
+**Tools Used:**\n
 OpenCV, pytesseract, gtts, django, bootstrap
 
 **Project Inspiration:**
